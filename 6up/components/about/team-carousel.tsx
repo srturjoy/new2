@@ -10,7 +10,7 @@ const team = [
     titles: "Digital Marketer | FB, Google & YouTube Ads Expert | Business Analyst | Software Engineer",
   },
   {
-    name: "Masum Billah",
+    name: "Masum",
     role: "Head of Marketing",
     titles: "Marketing Strategy | Campaign Management | Brand Development",
   },
