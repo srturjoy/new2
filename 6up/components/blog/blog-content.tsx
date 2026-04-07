@@ -38,7 +38,7 @@ const featuredPost = {
   titleBn: "২০২৪ সালে ফেসবুক বিজ্ঞাপনের সম্পূর্ণ গাইড: আপনার যা জানা দরকার",
   excerpt: "Master Facebook advertising with our comprehensive guide covering targeting, creative best practices, budget optimization, and measuring success. Learn the strategies that top brands use to achieve exceptional ROAS with Meta Business Suite.",
   excerptBn: "টার্গেটিং, ক্রিয়েটিভ বেস্ট প্র্যাকটিস, বাজেট অপ্টিমাইজেশন এবং সাফল্য পরিমাপ সহ আমাদের সম্পূর্ণ গাইড দিয়ে ফেসবুক বিজ্ঞাপনে দক্ষতা অর্জন করুন।",
-  image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=600&fit=crop",
+  image: "https://images.unsplash.com/photo-1643503640904-75c1a2093570?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   date: "March 20, 2024",
   dateBn: "২০ মার্চ, ২০২৪",
   readTime: "15 min read",
